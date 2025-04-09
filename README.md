@@ -8,3 +8,8 @@ npm i
 npm run dev
 
 la app se ejectura en un puerto y mostrara una url para acceder a el mediante local host
+
+
+Visita desde un despliege en weeb
+
+https://teatro-una.vercel.app
